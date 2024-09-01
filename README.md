@@ -11,6 +11,8 @@ Starter code for the Plus Weather project.
 ![Static Badge](https://img.shields.io/badge/Weather_Project-Passed-violet)
 
 
-####  Summing up my thought process working on this project
+####  Summing up my thought process..
 ![How it started](image.png)
+
+
 ![How it's going](image-1.png)
